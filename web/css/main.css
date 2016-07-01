@@ -19,3 +19,7 @@ body .carousel .carousel-control {
 .member .member-avatar .thumbnail {
     height: 450px;
 }
+
+.blueArrow {
+    color: #009DCD;
+}

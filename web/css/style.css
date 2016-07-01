@@ -244,15 +244,11 @@ footer .social-networks a:hover {
 }
 .navbar .brand {
 	font-weight:400;
-	font-size:28px;
+	font-size:36px;
 	color:#222;
 	padding-top:20px;
 }
 .navbar .brand b {
-}
-.navbar .brand span {
-	font-size:40px;
-	line-height:0;
 }
 .navbar .nav > li.active > a, 
 .navbar .nav > li.active:hover > a {
@@ -300,9 +296,10 @@ footer .social-networks a:hover {
 	border-radius:2px;
 	border:0;
 	padding:6px;
+    padding-top: 18px;
 	line-height:0.4em;
 
-	background:#888;
+	background:#292727;
 
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -315,7 +312,7 @@ footer .social-networks a:hover {
 	transition:all 0.2s;	
 }
 .carousel-control:hover{
-	background:#0081CC;	
+	background:#999999;
 } 
 .carousel-control.left {
 	left:0px;
