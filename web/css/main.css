@@ -1,0 +1,21 @@
+/* Add space between the logo and the title */
+.brand {
+	padding-top: 16px !important;
+}
+
+.brand img {
+	margin-right:10px;
+}
+
+.companyname {
+	font-family: 'museo_sans_rounded300';
+	font-size: 18px;
+}
+
+body .carousel .carousel-control {
+    color: #009dcd;
+}
+
+.member .member-avatar .thumbnail {
+    height: 450px;
+}
