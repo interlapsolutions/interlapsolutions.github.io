@@ -280,6 +280,19 @@ footer .social-networks a:hover {
 }
 
 /* --------------------------------------------------------	*/
+/*	Homepage items */
+/* --------------------------------------------------------	*/
+
+#logos {
+    margin-top: 40px;
+}
+
+#logos .toolLogo {
+    height: 60px;
+    margin-right: 20px;
+}
+
+/* --------------------------------------------------------	*/
 /*	Carousel */
 /* --------------------------------------------------------	*/
 
@@ -626,6 +639,11 @@ footer .social-networks a:hover {
 /* --------------------------------------------------------	*/
 
 #explore h3 {margin:0 0 10px 0;}
+
+#explore #logos {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 
 ul.the-icons {
 	margin:0;
